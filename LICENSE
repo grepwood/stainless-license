@@ -16,7 +16,7 @@
 		behavior of GPLv3 license. These terms are discussed everywhere
 		except Section 1.
 
-	2.2.	It is strictly forbidden to rewrite or compile, handle, link
+	2.2.	It is strictly forbidden to rewrite or compile, link
 		against, re-implement, or otherwise handle this software with
 		a prohibited technology. For more informations about what
 		technologies are considered prohibited by Stainless License,
@@ -32,7 +32,7 @@
 		lose the privilege to carry the software in any way, shape or
 		form.
 
-	2.5. 	Failure to comply with cease & desist requests issued against
+	2.5.	Failure to comply with cease & desist requests issued against
 		violators will be legally escalated and pursued to the fullest
 		extent of IP law.
 
@@ -49,6 +49,7 @@
 		re-implemented in, re-written in, or otherwise handled in any
 		way, shape or form, with the following prohibited technologies:
 			- Rust (programming language, GCC implementation)
+			- Electron Framework
 			- anything produced with the use of the above
 			prohibited technologies
 			- any and all forks and modifications of all of the
